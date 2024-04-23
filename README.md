@@ -103,6 +103,26 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You built a fully deployable artifact.
 - You did so using GitHub Actions and GitHub Packages!
 
+## Evidence
+
+_Login_
+<img src="img/docker_login.png">
+
+_pull_ <br>
+The command is:  <br>
+```docker pull ghcr.io/paulatrujillo27/publish-packages/game:sha-e467063``` 
+
+<img src="img/docker_pull.png">
+
+_docker images_
+
+<img src="img/docker_images.png">
+
+_docker run_
+<img src="img/docker_run.png">
+
+<img src="img/test.png">
+
 ### What's next?
 
 - Publish your own packages from your projects.
